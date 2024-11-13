@@ -1,4 +1,4 @@
-# career-guidance-platform
+# Career Guidance Platform
 This is a Laravel-based web application designed to provide career guidance for high school students. It allows students to explore higher learning institutions, courses, and apply online.
 
 ## Features
